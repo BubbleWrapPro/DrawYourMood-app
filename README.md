@@ -13,6 +13,7 @@
 
 ## 📂 Contenu du dépôt  
 - **📂 `app-debug.apk`** : APK de l'application *(nécessaire pour l’installation en attendant une sortie sur le Play Store)*  
+- **📂 `output-metadata.json`** : (optionnel) Fichier de configuration recommandé lors de la première installation mais pas obligatoire.   
 
 ## 🛠️ Installation  
 1. **Télécharger et installer l'APK**  
